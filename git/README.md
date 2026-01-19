@@ -1,1 +1,1 @@
-This is content for the git sub dir README.md file
+This a README.md file for git repo
